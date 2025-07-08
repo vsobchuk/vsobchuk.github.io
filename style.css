@@ -1,0 +1,64 @@
+body {
+  background-color: #f9fbfd;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1, h2 {
+  color: #2b2b2b;
+  padding-bottom: 4px;
+}
+h1 {
+  font-size: 28px;
+  margin-top: 0;
+}
+h2 {
+  font-size: 20px;
+  margin-top: 30px;
+  text-align: center;
+}
+p, li {
+  font-size: 14px;
+  line-height: 1.6;
+}
+ul {
+  margin-top: 0;
+  padding-left: 3em;
+}
+.content {
+  background-color: #fff;
+  margin: 1em auto;
+  padding: 70px 70px;
+  width: 694px;
+}
+.section {
+  margin-bottom: 30px;
+}
+.general-info {
+  position: relative;
+}
+.personal-info {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.personal-info strong {
+  display: inline-block;
+  width: 110px;
+}
+.general-info .photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.job {
+  margin-bottom: 20px;
+}
+.job-title {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.job-period {
+  font-style: italic;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
